@@ -23,6 +23,12 @@ header{
   min-width: 500px;
   float: left;
 }
+#good_picture{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
 .box{
   background-color: red;
   color: black;
